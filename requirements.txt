@@ -1,0 +1,4 @@
+pypdf2
+pyttsx3
+pikepdf
+gTTS
